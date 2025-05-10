@@ -1,4 +1,4 @@
-# Radarite Plugin
+# Radarite 
 
 A dynamic metric based radar chart plugin for visualizing your data over time.  
 Easily define, calculate, and update custom metrics using filters and meta data to adapt to any tool.
