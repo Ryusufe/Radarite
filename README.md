@@ -1,4 +1,8 @@
-# Radarite 
+<div align="center">
+<h1>
+  RA <img src="img/radarite.png" width="25px" style="vertical-align: end;" /> ARITE
+</h1>
+</div>
 
 A dynamic metric based radar chart plugin for visualizing your data over time.  
 Easily define, calculate, and update custom metrics using filters and meta data to adapt to any tool.
