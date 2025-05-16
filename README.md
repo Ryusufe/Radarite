@@ -41,9 +41,4 @@ For each metric, you choose:
 You can have as many metrics as you want — and they'll show up as axes on the radar chart.
 
 
-## Example Screenshots
-
--- soon
-
-
 Made for people who love visualizing their data.
