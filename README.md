@@ -3,6 +3,10 @@
   RA <img src="img/radarite.png" width="25px" style="vertical-align: end;" /> ARITE
 </h1>
 </div>
+<div style="display: flex;" align="center">
+  <img src="https://raw.githubusercontent.com/Ryusufe/Radarite/refs/heads/main/img/minimal-radarite.png" height="300px"/>
+  <img src="https://raw.githubusercontent.com/Ryusufe/Radarite/refs/heads/main/img/n-radarite.png"  height="300px"/>
+</div>
 
 A dynamic metric based radar chart plugin for visualizing your data over time.  
 Easily define, calculate, and update custom metrics using filters and meta data to adapt to any tool.
