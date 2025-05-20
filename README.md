@@ -3,8 +3,8 @@
   RA<img src="./img/radarite.png" style="height:29px; vertical-align:middle;" />ARITE
 </h1>
 <p align="center">
-  <img src="./img/minimal-radarite.png" height="350" />
-  <img src="./img/n-radarite.png" height="350" />
+  <img src="./img/minimal-radarite.png" height="250" />
+  <img src="./img/n-radarite.png" height="250" />
 </p>
 
 **Radarite** lets you create customizable radar charts based on your data in Hollow.  
