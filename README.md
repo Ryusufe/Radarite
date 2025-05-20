@@ -1,23 +1,20 @@
 
-<div align="center" style="font-size: 2.5em; margin: 1em 0;">RA<img src="./img/radarite.png" style="height:1em;vertical-align:middle;" />ARITE</div>
-
----
-<div style="display:flex;gap:10; height: 300px;"><img src="./img/minimal-radarite.png"/> <img src="./img/n-radarite.png"/></div>
-
----
+<h1 align="center" style="font-size: 50px">
+  RA<img src="./img/radarite.png" style="height:29px; vertical-align:middle;" />ARITE
+</h1>
+<p align="center">
+  <img src="./img/minimal-radarite.png" height="350" />
+  <img src="./img/n-radarite.png" height="350" />
+</p>
 
 **Radarite** lets you create customizable radar charts based on your data in Hollow.  
 It turns your entries into metrics so you can track progress, habits, or anything else that matters.
 
----
-
-## 📥 Installation
+## Installation
 
 You can install Radarite directly from Hollow's settings.  
 
----
-
-## 🛠️ How It Works
+##  How It Works
 
 Each radar chart is built using **metrics** that you define.
 
