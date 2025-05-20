@@ -1,0 +1,37 @@
+.container {
+        container-type: size;
+}
+
+.shape {
+        aspect-ratio: 1/1;
+        width: auto;
+        height: auto;
+        position: relative;
+}
+@container (max-aspect-ratio: 1/1) {
+        .shape {
+                width: 100%;
+                height: auto;
+        }
+}
+@container (min-aspect-ratio: 1/1) {
+        .shape {
+                height: 100%;
+                width: auto;
+        }
+}
+
+.dotContainer {
+        position: absolute;
+        z-index: 10;
+        cursor: pointer;
+
+        &:hover .dot-ping {
+                visibility: visible;
+                animation: var(--animate-ping);
+        }
+}
+
+.dot-ping {
+        visibility: hidden;
+}

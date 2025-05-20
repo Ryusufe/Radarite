@@ -1,0 +1,14 @@
+.dotContainer {
+        position: absolute;
+        z-index: 10;
+        cursor: pointer;
+
+        &:hover .dot-ping {
+                visibility: visible;
+                animation: var(--animate-ping);
+        }
+}
+
+.dot-ping {
+        visibility: hidden;
+}

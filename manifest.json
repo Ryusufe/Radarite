@@ -1,0 +1,10 @@
+{
+    "version": "1.0.0",
+    "name": "Radarite",
+    "description": "Radarite turns your data into a visual radar shape, like a skill chart. Choose what you want to track notes, tags, or anything else and see it come to life in real time.",
+    "author": "ryu",
+    "authorUrl": "https://github.com/Ryusufe",
+    "dbVersion": 1,
+    "icon": "Radar"
+}
+

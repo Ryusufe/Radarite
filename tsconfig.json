@@ -1,0 +1,29 @@
+{
+    "compilerOptions": {
+        "target": "ESNext",
+        "module": "ESNext",
+	"jsxImportSource": "solid-js",
+        "moduleResolution": "node",
+        "lib": ["DOM", "ESNext"],
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+        "strict": true,
+        "jsx": "preserve",
+        "resolveJsonModule": true,
+        "skipLibCheck": true,
+	"isolatedModules": true,
+	"baseUrl": "./src",
+	"paths": {
+            "@components/*": ["components/*"],
+            "@features/*": ["features/*"],
+            "@lib/*": ["lib/*"],
+            "@styles/*": ["styles/*"],
+            "@type/*": ["types/*"],
+            "@utils/*": ["utils/*"],
+            "@hooks/*": ["hooks/*"],
+            "@hollow/*": ["hollow/*"]
+        }
+
+    },
+    "include": ["src/**/*"]
+}
